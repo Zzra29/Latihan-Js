@@ -1,5 +1,5 @@
 const prompt = require("prompt-sync")({ sigint: true });
-let r = Number(prompt("Masukkan jari-jaroo : "));
+let r = Number(prompt("Masukkan jari-jari : "));
 let tinggi = Number(prompt("Masukkan tinggi : "));
 
 let volume = (1/3) * 3.14 * r * r * tinggi;
