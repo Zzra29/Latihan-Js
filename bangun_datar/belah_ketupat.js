@@ -11,5 +11,5 @@ console.log("         H A S I L         ")
 console.log("===========================")
 
 console.log(
-`Luas Belah Ketupat\t\t: ${luas.toFixed(2)}  cm2
+`Luas Belah Ketupat\t: ${luas.toFixed(2)}  cm2
 Keliling Belah Ketupat\t: ${keliling.toFixed(2)}  cm`)

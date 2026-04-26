@@ -12,5 +12,5 @@ console.log("         H A S I L         ")
 console.log("===========================")
 
 console.log(
-`Luas Layang-Layang\t\t: ${luas.toFixed(2)}  cm2
+`Luas Layang-Layang\t: ${luas.toFixed(2)}  cm2
 Keliling Layang-Layang\t: ${keliling.toFixed(2)}  cm`)
