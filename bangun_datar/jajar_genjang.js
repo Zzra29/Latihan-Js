@@ -13,3 +13,5 @@ console.log("===========================")
 console.log(
 `Luas Jajar Genjang\t: ${luas.toFixed(2)}  cm2
 Keliling Jajar Genjang\t: ${keliling.toFixed(2)}  cm`)
+
+con
