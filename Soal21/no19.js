@@ -7,8 +7,10 @@ let total = Number(x) + Number(y) + Number(z)
 
 let max = Math.max(x,y,z)
 let min = Math.min(x,y,z)
+let rata = Math.clz32(x,y,z)
 
 console.log(`
     nilai terbesar \t: ${max}
     nilai terkecil \t: ${min}
+    nilai rata-rata \t: ${rata}
     nilai keseluruhan \t: ${total} `)
